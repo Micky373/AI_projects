@@ -30,4 +30,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Huge thanks to [siddhardhan](https://www.linkedin.com/in/siddhardhan-s-741652207/) for providing [this](https://youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6) playlist
+- Huge thanks to [Siddhardhan](https://www.linkedin.com/in/siddhardhan-s-741652207/) for providing [this](https://youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6) playlist
