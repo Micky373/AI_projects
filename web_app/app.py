@@ -6,6 +6,7 @@ import streamlit as st
 model = pickle.load(open("../models/machine_learning_models/diabetes_model.h5",'rb'))
 
 # Creating a prediction function
+
 def diabetes_prediction(data):
 
     # Changing the input data into an array
