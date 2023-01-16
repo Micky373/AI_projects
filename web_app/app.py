@@ -1,9 +1,10 @@
 import numpy as np
 import pickle
 import streamlit as st
+import os
 
 # Getting the model
-model = pickle.load(open('diabetes_model.h5','rb'))
+model = pickle.load(open(os.path.join('../models/machine_learning_models/diabetes_model.h5'),'rb'))
 
 # Creating a prediction function
 def diabetes_prediction(data):
