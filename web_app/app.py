@@ -3,7 +3,7 @@ import pickle
 import streamlit as st
 
 # Getting the model
-model = pickle.load(open('../models/machine_learning_models/diabetes_model.h5','rb'))
+model = pickle.load(open('/home/micky/Desktop/AI_projects/models/machine_learning_models/diabetes_model.h5','rb'))
 
 # Creating a prediction function
 def diabetes_prediction(data):
