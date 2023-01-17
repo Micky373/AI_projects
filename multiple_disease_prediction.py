@@ -3,6 +3,11 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import numpy as np
 
+st.set_page_config(
+    page_title = 'Disease prediction',
+    page_icon="random",
+)
+
 diabetes_model = pickle.load(open("models/machine_learning_models/diabetes_model.h5",'rb'))
 heart_disease_model = pickle.load(open(
                                 "models/machine_learning_models/heart_disease_model.h5",
