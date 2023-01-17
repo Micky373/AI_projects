@@ -3,3 +3,5 @@ pickleshare==0.7.5
 streamlit==1.17.0
 pandas
 scikit-learn
+streamlit-option-menu
+xgboost
