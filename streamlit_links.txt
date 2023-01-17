@@ -1,1 +1,1 @@
-The link for the diabetes app is: https://micky373-ai-projects-app-nosb31.streamlit.app/
+The link for the web app is: https://micky373-ai-projects-multiple-disease-prediction-0bpixm.streamlit.app/
