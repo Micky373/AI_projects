@@ -31,8 +31,8 @@ I have also created a one responsive disease classification web app using [Strea
 
 ## 👤 Author
 
-- GitHub: [@githubhandle](https://github.com/Micky373)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/michaeltamirie)
+- GitHub: [Micky](https://github.com/Micky373)
+- LinkedIn: [Michael Tamirie](https://linkedin.com/in/michaeltamirie)
 
 ## 🤝 Contributing
 
