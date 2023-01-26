@@ -173,7 +173,7 @@ if selected == 'Heart disease prediction':
     diagnosis = ''
 
     
-    if st.button('Diabetes test result'):
+    if st.button('Heart Disease test result'):
 
         # If the button is clicked we will do the following action
         try:
